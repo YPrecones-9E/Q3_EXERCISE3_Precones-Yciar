@@ -1,0 +1,16 @@
+.btn{
+	padding: 3px;
+}
+body {
+    background-color: #ffffff;
+    body: #005e98;
+    font-family: Georgia;
+}
+
+.container {
+    max-width: 400px;
+    background: #d3e5fe;
+    border: 10px double #ffffff;
+    padding: 20px;
+}
+
